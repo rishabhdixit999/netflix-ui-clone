@@ -5,7 +5,7 @@ A simple **Netflix UI clone** made with **HTML & CSS only**, as part of my front
 ## 🚀 Features
 
 - Netflix-style hero section
-- Static layout (no functionality)
+- Static layout (no dynamic functionality)
 - Clean and responsive design
 
 ## 🛠️ Tech Used
